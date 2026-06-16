@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Farhad
 
-<!--
-**farhadmusic/farhadmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎵 Musician & DJ  
+🤖 Telegram Bot Developer  
+💻 Linux Enthusiast  
+🎨 Content Creator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎧 About Me
+
+- 🎵 Professional DJ for Weddings, Engagements & Birthdays
+- 🤖 Building Telegram Bots
+- 💻 Working with Linux Servers
+- 🎨 Creating content about Beauty & Hair Color
+
+---
+
+## 🛠 Skills
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 🎶 Favorite Tools
+
+- Traktor Pro 4
+- Ubuntu Linux
+- Cloudflare
+- ManyChat
+
+---
+
+## 📫 Connect With Me
+
+Instagram: @your_instagram  
+Telegram: @your_telegram
+
+---
+
+⭐ Thanks for visiting my profile!
